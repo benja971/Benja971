@@ -35,7 +35,7 @@
 
 <br><br><br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=benja971&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+# <img src="https://github-readme-activity-graph.cyclic.app/graph?username=benja971&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
