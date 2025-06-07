@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/benja971">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=28&pause=60000&color=70A4FC&width=440&height=45&lines=Benjamin Niddam" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=55&lines=Benjamin+NIDDAM" /></a>
 </p>
 
 <p align="center">
