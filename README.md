@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=benja971&label=VISITORS&labelColor=%23007EC6&countColor=%23ffffff)](https://github.com/benja971)
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D3055%26project%3D%26in%3D0)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0a0a0a&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D3055)](https://codetime.dev)
 
 </div>
 
