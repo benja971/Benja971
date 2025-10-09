@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=benja971&label=VISITORS&labelColor=%23007EC6&countColor=%23ffffff)](https://github.com/benja971)
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0a0a0a&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D3055)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D3055)](https://codetime.dev)
 
 </div>
 
@@ -16,8 +16,8 @@
 ### 👋 About Me
 
 💡 Passionate about **software architecture**, **API design**, and **backend performance optimization**.  
-🎓 Currently completing a **Master’s Degree in Computer Science** at [University of Lille](https://www.univ-lille.fr/).  
-🚀 Focused on technologies like **Node.js**, **NestJS**, **GraphQL**, and **Docker**.  
+🎓 Graduated with a **Master’s Degree in Computer Science** from [University of Lille](https://www.univ-lille.fr/).  
+🚀 Focused on technologies like **Node.js**, **NestJS**, **PostgreSQL**, and **Docker**.  
 🤝 Open to **collaborations** and **innovative backend projects**.  
 ♟️ I also enjoy [chess](https://www.chess.com/member/benjaminniddam) and [horse-riding](https://1drv.ms/i/s!AvDhnxBEKchuovod1iin5uWoxFgiYA?e=bki1Wl).
 
@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>  
 
 #### 💻 Front-End & Mobile
@@ -55,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benja971&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=benja971&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=benja971&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
 </p>
 
 <p align="center">
