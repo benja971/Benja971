@@ -17,9 +17,9 @@
 
 💡 Passionate about **software architecture**, **API design**, and **backend performance optimization**.  
 🎓 Graduated with a **Master’s Degree in Computer Science** from [University of Lille](https://www.univ-lille.fr/).  
-🚀 Focused on technologies like **Node.js**, **NestJS**, **PostgreSQL**, and **Docker**.
+🚀 Focused on technologies like **Node.js**, **NestJS**, **PostgreSQL**, and **Docker**.  
 🛠️ Currently building [Kodō](https://kodo.benjamin-niddam.dev) — a CRM designed for French
-  freelancers.
+  freelancers.  
 🤝 Open to **collaborations** and **innovative backend projects**.  
 ♟️ I also enjoy [chess](https://www.chess.com/member/benjaminniddam) and [horse-riding](https://1drv.ms/i/s!AvDhnxBEKchuovod1iin5uWoxFgiYA?e=bki1Wl).
 
