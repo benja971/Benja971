@@ -65,14 +65,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benja971&theme=tokyonight&no-frame=true&margin-w=8" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
